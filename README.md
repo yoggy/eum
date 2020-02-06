@@ -1,10 +1,10 @@
 # eum - Exhibit under maintenance
 
-URL : https://yoggy.github.io/eum/
+GitHub Pages : https://yoggy.github.io/eum/
 
-  - ![img01.png](img01.png)
-  - ![img02.jpg](img02.jpg)
-  - ![img03.jpg](img03.jpg)
+  - ![img01.png](img01.png) ![img02.png](img02.png) ![img03.png](img03.png)
+
+Please also use [yoggy/PreventSleep](https://github.com/yoggy/PreventSleep). 
 
 ## Copyright and license
 Copyright (c) 2020 yoggy
